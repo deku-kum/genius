@@ -1,0 +1,25 @@
+--DICA---
+- Para declarar uma div no HTML de forma rápida já com um class de forma rápida
+EX.:
+    CÓDIGO
+        div.nome_da_div
+    SAÍDA
+        <div class="nome_da_div"></div>
+
+---O QUE É GRID-GAP---
+-Grid-gap é obsoleto
+-Deve-se utilizar a propriedade 'gap'
+- É o espaço entre cada área do nosso grid 
+-Define as lacunas ( sarjetas ) entre linhas e colunas. 
+EX.:
+                                 
+     _______     _______
+    |       |   |       |    
+    |_______|   |_______|           
+                            <----- São esses espaços entre as caixas  
+     _______     _______
+    |       |   |       |    
+    |_______|   |_______|                                
+    
+        
+        
